@@ -8,7 +8,7 @@
     <description>redis支撑</description>
 
     <properties>
-        <redssion.version>3.11.6</redssion.version>
+        <redssion.version>3.22.0</redssion.version>
         <java.version>1.8</java.version>
         <lombok.version>1.16.10</lombok.version>
         <commons-lang3.version>3.9</commons-lang3.version>
